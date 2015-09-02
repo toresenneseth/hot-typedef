@@ -3,7 +3,7 @@ declare var TextEditor: ht.TextEditor;
 //declare function Handsontable(a: any, b: any): void;
 declare function WalkontableCellRange(highlight: any, from: any, to: any): void;
 
-// module name 2
+// module name 3
 declare module ht {
 
     interface CellPosition {
